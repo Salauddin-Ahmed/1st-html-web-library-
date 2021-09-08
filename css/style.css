@@ -1,0 +1,169 @@
+
+#slider .w-100 {
+      width: 80%!important;
+      margin-left: 110px;
+      
+}
+/*-------background clr----*/
+body {
+  background-color: #E1E9B7;
+  margin-left: auto;
+margin-right: auto;
+width: 1000px;
+ 
+}
+/*-------background clr end----*/
+ /*About us start*/
+
+#About_US h2{
+margin-left: 480px;
+margin-left: 400px;
+margin-top: 30px;
+
+}
+#About_US p{
+  text-align: justify;
+
+}
+
+#Our_tem_work {
+ background-color:  #E3E8FF;
+ margin-top: 5px;
+}
+#Our_tem_work h1{
+ margin-left: 200px;
+}
+#Our_tem_work h3{
+ margin-left: 400px;
+ margin-top: 20px;
+}
+#Our_tem_work .passage p{
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#Our_tem_work .photo img{
+
+  width: 255px;
+  height: 300px;
+  overflow: hidden;
+  margin: 5px;
+  margin-top: 30px;
+}
+#Our_tem_work .icon{
+
+background-color: #ecfcff;
+list-style: none;
+display: flex;
+top: 20px;
+left: 20px;
+}
+
+
+/*About us end*/
+
+/*our story start*/
+#Our_story h1{
+  margin-left: 100px;
+}
+#Our_story h2{
+  margin-left: 100px;
+}
+#Our_story img {
+margin-left: 50px;
+margin-right: 110px;
+}
+#Our_story .simple h5{
+  text-align: justify;
+  margin-left: 200px;
+
+}
+#Our_story h6{
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 150px;
+}
+#Our_story h5{
+  
+  margin-left: 100px;
+
+}
+/*our story end*/
+
+/*Contact_Us start*/
+
+#Contact_Us{
+  background-color: #D4EBFF;
+}
+
+/*Contact_Us end*/
+
+/*OUR_PROGRAMS start*/
+#OUR_PROGRAMS{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#OUR_PROGRAMS p{
+  margin-right: 20px;
+}
+.program h6{
+
+  margin-left: 100px;
+  margin-right: 100px;
+   text-align: justify;
+}
+/*OUR_PROGRAMS end*/
+
+/*WHERE_WE_WORK start*/
+#WHERE_WE_WORK .work  h6, h4 {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
+}
+
+#WHERE_WE_WORK .Orphanages  h6, h4 {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
+}
+#WHERE_WE_WORK img {
+  margin-left: 100px;
+}
+/*WHERE_WE_WORK end*/
+
+/*Involved start*/
+#Involved {
+  text-align: justify;
+ margin-top: 10px;
+}
+
+/*Involved end*/
+
+/*bar strat*/
+#bar h5{
+background-color: black;
+font-size: 30px;
+padding-bottom: 10px;
+padding-left: 360px;
+
+}
+/*bar end*/
+
+/*icon*/
+
+.icon .iconbar i{
+
+  width: 220px;
+  height: 100px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 50px;
+  margin: 0 10px;
+  border-radius: 50%;
+}
+.icon .iconwrit img{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+/*icon*/
